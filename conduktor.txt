@@ -1,0 +1,2 @@
+# Connect Conduktor to your own Kafka:
+curl -L https://releases.conduktor.io/console -o docker-compose.yml && docker compose up
